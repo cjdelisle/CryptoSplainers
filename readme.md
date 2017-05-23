@@ -4,7 +4,7 @@ Or why nobody ever encrypts anything.
 
 ![well actually](http://i.imgur.com/L6XKBOX.jpg)
 
-Whenever anyone tries to write some kind of encryption software; there's always *this guy*, (and it is, almost always, a guy) decides to *weigh in* on the situation.
+Whenever anyone tries to write some kind of encryption software; there's always *this guy*, (and it is, almost always, a guy) who decides to *weigh in* on the situation.
 
 He pops up and starts talking about algorithms and bits and attacks and all kinds of stuff that for most people sounds really scary.
 
