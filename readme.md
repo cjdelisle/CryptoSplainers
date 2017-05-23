@@ -2,7 +2,7 @@
 
 Or why nobody ever encrypts anything.
 
-<center>![well actually](http://i.imgur.com/L6XKBOX.jpg)</center>
+![well actually](http://i.imgur.com/L6XKBOX.jpg)
 
 Whenever anyone tries to write some kind of encryption software; there's always *this guy*, (and it is, almost always, a guy) decides to *weigh in* on the situation.
 
